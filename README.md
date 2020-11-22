@@ -11,15 +11,15 @@ Trabalho de analise de algoritmos para faculdade.
 
 Para cada algoritmo vocês devem medir através do código quanto tempo ele levou para ordenar um conjunto de números. 
 
-Vocês receberam 7 arquivos de números que devem ser lidos, ordenados e registrados o tempo de ordenação para cada um dos arquivos (os arquivos encontram-se neste link)
+Vocês receberam 7 arquivos de números que devem ser lidos, ordenados e registrados o tempo de ordenação para cada um dos arquivos:
 
-Arquivo com MIL números desordenados
-Arquivo com CINCO MIL números desordenados
-Arquivo com DEZ MIL números desordenados
-Arquivo com VINTE MIL números desordenados
-Arquivo com CINQUENTA MIL números desordenados
-Arquivo com SETENTA E CINCO MIL números desordenados
-Arquivo com CEM MIL números desordenados
+- Arquivo com MIL números desordenados
+- Arquivo com CINCO MIL números desordenados  
+- Arquivo com DEZ MIL números desordenados
+- Arquivo com VINTE MIL números desordenados
+- Arquivo com CINQUENTA MIL números desordenados
+- Arquivo com SETENTA E CINCO MIL números desordenados
+- Arquivo com CEM MIL números desordenados
 
 O tempo de execução NÃO pode incluir o tempo de leitura, ele deve marcar APENAS o tempo de ORDENAÇÃO.
 
