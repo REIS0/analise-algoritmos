@@ -36,3 +36,4 @@ Gráfico que mostre a cada "rodada" os tempos pela quantidade (arquivos) os de t
 - Algoritmos usados: Heap sort, Insertion sort, Tim sort, Gnome sort.
 - Tudo foi rodado usando o google colab.
 - [Outra versão do mesmo trabalho](https://github.com/lcbm/cs-algorithm-analysis).
+- [Mais outra versão](https://github.com/jsantos93/analise-algoritmo).
